@@ -1,7 +1,17 @@
-Hey! I'm Josh Pablico and my handle is @Yashido. 
-Feel free to message me on discord (Wimllie#7993) or email me at jbpablico27@gmail.com!
-Forever learning and building my coding experience through The Odin Project and FreeCodeCamp.
-Looking to build new projects with some awesome people and collaborate!
+
+# Hey there, I'm Josh Pablico! 🇵🇭 
+
+I'm **Josh Pablico** (he/him/his). Creative front-end developer experienced in enterprise companies and startups. Currently living in the DFW metroplex. 
+
+Proficient in JavaScript, Angular, and React. Passionate about UI/UX.
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://joshpablico.dev/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-pablico-618108220/)
+
+
+## 
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Yashido&show_icons=true)
 
 <!---
 Yashido/Yashido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
